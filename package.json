@@ -1,0 +1,38 @@
+{
+  "name": "stylelint-config-nake-app",
+  "version": "0.1.0",
+  "description": "Naked stylelint shareable config for web app",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "laozhu/stylelint-config-nake-app",
+  "author": "Richie Zhu <laozhu.me@gmail.com> (https://laozhu.me)",
+  "keywords": [
+    "stylelint",
+    "stylelintconfig",
+    "standard",
+    "prettier",
+    "cssmodules",
+    "consistency",
+    "ordered",
+    "wxapp",
+    "compatibility"
+  ],
+  "dependencies": {
+    "prettier": "^1.15.3",
+    "stylelint": "^9.9.0",
+    "stylelint-config-css-modules": "^1.3.0",
+    "stylelint-config-prettier": "^4.0.0",
+    "stylelint-config-standard": "^18.2.0",
+    "stylelint-declaration-block-no-ignored-properties": "^1.1.0",
+    "stylelint-no-unsupported-browser-features": "^3.0.2",
+    "stylelint-order": "^2.0.0",
+    "stylelint-scss": "^3.4.1"
+  },
+  "peerDependencies": {
+    "prettier": "^1.15.3",
+    "stylelint": "^9.9.0",
+    "stylelint-declaration-block-no-ignored-properties": "^1.1.0",
+    "stylelint-no-unsupported-browser-features": "^3.0.2",
+    "stylelint-order": "^2.0.0"
+  }
+}
