@@ -1,10 +1,10 @@
-# stylelint-config-nake-app
+# @pubean/stylelint-config
 
-> Naked stylelint shareable config for web app
+> Stylelint shareable config for Pubean Inc.
 
 ## Installation
 
 ```bash
 # Install with npx
-$ npx install-peerdeps --dev stylelint-config-nake-app
+$ npx install-peerdeps --dev @pubean/stylelint-config
 ```

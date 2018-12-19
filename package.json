@@ -1,11 +1,11 @@
 {
-  "name": "stylelint-config-nake-app",
+  "name": "@pubean/stylelint-config",
   "version": "0.6.0",
-  "description": "Naked stylelint shareable config for web app",
+  "description": "Stylelint shareable config for Pubean Inc.",
   "main": "index.js",
   "license": "MIT",
-  "repository": "laozhu/stylelint-config-nake-app",
-  "author": "Richie Zhu <laozhu.me@gmail.com> (https://laozhu.me)",
+  "repository": "pubean/stylelint-config",
+  "author": "Pubean Inc. <hello@pubean.com> (https://pubean.com)",
   "keywords": [
     "stylelint",
     "stylelintconfig",
