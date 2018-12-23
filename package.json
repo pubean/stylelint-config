@@ -1,6 +1,6 @@
 {
   "name": "@pubean/stylelint-config",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Stylelint shareable config for Pubean Inc.",
   "main": "index.js",
   "license": "MIT",
@@ -25,13 +25,15 @@
     "stylelint-config-standard": "^18.2.0",
     "stylelint-declaration-block-no-ignored-properties": "^1.1.0",
     "stylelint-no-unsupported-browser-features": "^3.0.2",
-    "stylelint-order": "^2.0.0"
+    "stylelint-order": "^2.0.0",
+    "stylelint-scss": "^3.4.3"
   },
   "peerDependencies": {
     "prettier": "^1.15.3",
     "stylelint": "^9.9.0",
     "stylelint-declaration-block-no-ignored-properties": "^1.1.0",
     "stylelint-no-unsupported-browser-features": "^3.0.2",
-    "stylelint-order": "^2.0.0"
+    "stylelint-order": "^2.0.0",
+    "stylelint-scss": "^3.4.3"
   }
 }
